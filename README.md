@@ -1,3 +1,5 @@
+## Thanks for the project 
+
 ![Puppeteer logo](./puppeteer.png)
 
 # How to use Puppeteer to take webpage screenshots and generate dynamic Open Graph images for social sharing
